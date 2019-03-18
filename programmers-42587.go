@@ -34,3 +34,4 @@ func solution(priorities []int, location int) (index int) {
     }
     return
 }
+
