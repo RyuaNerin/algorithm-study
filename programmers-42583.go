@@ -35,3 +35,4 @@ func solution(bridge_length int, weight int, truck_weights []int) (sec int) {
     }
     return
 }
+
