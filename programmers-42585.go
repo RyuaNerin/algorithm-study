@@ -20,3 +20,4 @@ func solution(arrangement string) (r int) {
 	}
 	return
 }
+
