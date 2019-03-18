@@ -45,3 +45,4 @@ func makeNumber(N int64, c int) (r int64) {
 
     return
 }
+
