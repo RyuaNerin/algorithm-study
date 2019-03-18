@@ -1,4 +1,4 @@
-//https://programmers.co.kr/learn/courses/30/lessons/42883
+// https://programmers.co.kr/learn/courses/30/lessons/42883
 
 func solution(number string, k int) string {
     //  0 1 2 3 4 5 6 7 8 9     < index     Length = `nLen` = 10
