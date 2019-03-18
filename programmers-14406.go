@@ -16,3 +16,4 @@ long long solution(int N) {
     
     return answer;
 }
+
