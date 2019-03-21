@@ -1,4 +1,4 @@
-# [백준 2839 설탕배달](https://www.acmicpc.net/problem/2839)
+# [백준 - 2839 설탕배달](https://www.acmicpc.net/problem/2839)
 
 |n|n % 5|5 * n|3 * n|
 |:-:|:-:|:-:|:-:|
